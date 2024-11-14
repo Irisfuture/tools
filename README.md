@@ -1,2 +1,2 @@
-# screenshot
-选定位置截图
+# tools
+# screenshot.py 选定位置截图
